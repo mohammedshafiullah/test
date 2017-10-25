@@ -12,6 +12,7 @@
 		B24DBA281F9FE1B40020EB51 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B24DBA261F9FE1B40020EB51 /* Main.storyboard */; };
 		B24DBA2A1F9FE1B40020EB51 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B24DBA291F9FE1B40020EB51 /* Assets.xcassets */; };
 		B24DBA2D1F9FE1B40020EB51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B24DBA2B1F9FE1B40020EB51 /* LaunchScreen.storyboard */; };
+		B24DBA361F9FF2740020EB51 /* SessionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B24DBA341F9FF2740020EB51 /* SessionTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B24DBA291F9FE1B40020EB51 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B24DBA2C1F9FE1B40020EB51 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B24DBA2E1F9FE1B40020EB51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B24DBA341F9FF2740020EB51 /* SessionTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SessionTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				B24DBA291F9FE1B40020EB51 /* Assets.xcassets */,
 				B24DBA2B1F9FE1B40020EB51 /* LaunchScreen.storyboard */,
 				B24DBA2E1F9FE1B40020EB51 /* Info.plist */,
+				B24DBA341F9FF2740020EB51 /* SessionTableViewCell.swift */,
 			);
 			path = S4MAssignment1;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B24DBA361F9FF2740020EB51 /* SessionTableViewCell.swift in Sources */,
 				B24DBA251F9FE1B30020EB51 /* ViewController.swift in Sources */,
 				B24DBA231F9FE1B30020EB51 /* AppDelegate.swift in Sources */,
 			);
